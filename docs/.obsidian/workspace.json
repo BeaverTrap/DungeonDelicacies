@@ -1,20 +1,40 @@
 {
   "main": {
-    "id": "66ff4b0f49f458bf",
+    "id": "36b662df73f38f57",
     "type": "split",
     "children": [
       {
-        "id": "28489a90bafae3bf",
+        "id": "50be084ea9cc3a5c",
         "type": "tabs",
         "children": [
           {
-            "id": "91c7ce32596b447e",
+            "id": "9941022476fa8543",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Index"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ad9a9fd2bf3c0f98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91b072571d580d3a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -23,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e5249454a1edc170",
+    "id": "e6668cf4628f8adf",
     "type": "split",
     "children": [
       {
-        "id": "9ac390a61d3bf7c5",
+        "id": "907e775f2131c7b9",
         "type": "tabs",
         "children": [
           {
-            "id": "0b11dbdd17448fba",
+            "id": "6ebd2f2b278527b0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +63,7 @@
             }
           },
           {
-            "id": "3403433459fa0886",
+            "id": "2aa5d690c2efdf32",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,7 +80,7 @@
             }
           },
           {
-            "id": "c43f78acc4cb24e5",
+            "id": "73af0ce9c662ebec",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,20 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "fd81f56fcc94039c",
+    "id": "e18e998d4f1fd4a3",
     "type": "split",
     "children": [
       {
-        "id": "06862b77a3c440c7",
+        "id": "7a1f3e9b9f52523e",
         "type": "tabs",
         "children": [
           {
-            "id": "2831ae622e6742bb",
+            "id": "c41d17750c72d3eb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Index"
             }
           },
           {
-            "id": "cf7baf37973712c7",
+            "id": "2a0090335e1c08be",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Index"
             }
           },
           {
-            "id": "a31c49c2851a9969",
+            "id": "790f9f83730ecffd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,15 +150,15 @@
             }
           },
           {
-            "id": "90b1777b3e4cb4dd",
+            "id": "150e492bab466ef0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Index"
             }
           }
         ]
@@ -158,14 +178,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91c7ce32596b447e",
+  "active": "9941022476fa8543",
   "lastOpenFiles": [
-    "Dungeon Delicacies.md",
-    "docs/recipes.md",
-    "docs/foraging_harvesting.md",
-    "docs/creatures.md",
+    "DungeonDelicacies/Mourn's Folly/Player Characters/Player Creation/Character Creation.md",
     "Index.md",
-    "docs",
-    "Welcome.md"
+    "DungeonDelicacies/Mourn's Folly/Player Characters/Player Creation",
+    "DungeonDelicacies/Mourn's Folly/Player Characters",
+    "DungeonDelicacies/Mourn's Folly",
+    "DungeonDelicacies"
   ]
 }
