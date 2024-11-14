@@ -1,0 +1,4 @@
+- **Role**: Town Educator
+- **Backstory**: Emeline moved to Mourn’s Folly five years ago and is one of the few with a formal education. She’s compassionate and involved, especially with younger students.
+- **Connection**: Loved by students and families; seen as a positive influence.
+- **Potential Story Arc**: Under Barstow’s influence, she would begin spreading fearful beliefs or subtly instilling unease among her students.

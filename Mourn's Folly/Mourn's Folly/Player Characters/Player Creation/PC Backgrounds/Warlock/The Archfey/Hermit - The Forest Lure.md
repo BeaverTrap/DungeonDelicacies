@@ -1,0 +1,5 @@
+- **Origin Stats:** Wisdom, Charisma
+
+- **Skills:** Medicine, Religion
+
+- **Description:** A reclusive figure on the outskirts of _Mourn’s Folly_, they spend their days close to nature, foraging and concocting herbal remedies for the occasional villager in need. But their connection to the wild goes deeper than most know; during a solitary trek, they encountered an enchanting Archfey who offered them a pact in exchange for lifelong curiosity and service to the fey. This bond imbued them with mystical powers, connecting them to the world’s hidden magical essence. Now, they carry an air of whimsy and mystery that unsettles some of the townsfolk, who can’t quite decide if they’re a helpful healer or an enigmatic meddler. Since Marlon Voss’s arrival, they’ve felt a strange pull toward the mansion’s renovations, sensing that his presence may hold answers to the subtle energies they’re attuned to.

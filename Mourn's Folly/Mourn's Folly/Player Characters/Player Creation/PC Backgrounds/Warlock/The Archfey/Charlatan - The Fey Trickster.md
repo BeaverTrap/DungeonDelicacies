@@ -1,0 +1,5 @@
+- **Origin Stats:** Dexterity, Charisma
+
+- **Skills:** Deception, Sleight of Hand
+
+- **Description:**  Known around _Mourn’s Folly_ as a bit of a rascal, they’ve always had a knack for charming the townsfolk and talking their way out of trouble. But few know the real story behind their powers—a chance encounter in a nearby grove with a powerful Fey spirit that led to an unexpected pact. The Archfey now grants them subtle magic to enhance their charisma and deception, which they use in tricks and schemes that bring both amusement and suspicion in equal measure. Recently, they’ve taken a keen interest in Marlon Voss and his antiques business, curious if any of the items hold enchantments that might deepen their connection to the fey realm or pique their patron’s interest. With the town’s new arrivals, they sense a chance to uncover something magical… and maybe even stir up a little mischief along the way.

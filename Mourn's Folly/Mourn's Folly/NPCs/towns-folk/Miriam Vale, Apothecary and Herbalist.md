@@ -1,0 +1,4 @@
+- **Role**: Healer and Potion Maker
+- **Backstory**: Miriam is a skilled apothecary who supplies medicines to the town. She’s friendly but values her privacy.
+- **Connection**: Frequently visited by townsfolk for remedies, including Voss for “special supplies.”
+- **Potential Story Arc**: Under Barstow’s control, she could subtly poison supplies or create mixtures to weaken the townsfolk.

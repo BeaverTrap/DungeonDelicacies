@@ -1,0 +1,4 @@
+- **Role**: Town Blacksmith
+- **Backstory**: A widower and father of two, Tobias is known for his quiet demeanor and steady work. He takes pride in his craftsmanship, though recent rumors about the mansion have made him uneasy.
+- **Connection**: Respected by the community, especially by farmers and hunters who rely on his services.
+- **Potential Story Arc**: When turned, he becomes more withdrawn, subtly sabotaging tools or arming Barstow’s minions.

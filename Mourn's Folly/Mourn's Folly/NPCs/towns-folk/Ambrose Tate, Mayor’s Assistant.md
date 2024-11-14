@@ -1,0 +1,4 @@
+- **Role**: Administrative Support
+- **Backstory**: Ambrose is orderly and efficient, handling the mayor’s administrative work. He’s ambitious but has always felt overlooked.
+- **Connection**: Works with local government and knows town secrets, possibly coveting more power.
+- **Potential Story Arc**: If corrupted, he could serve as Barstow’s spy within town hall, working to divert attention away from Barstow’s operations.

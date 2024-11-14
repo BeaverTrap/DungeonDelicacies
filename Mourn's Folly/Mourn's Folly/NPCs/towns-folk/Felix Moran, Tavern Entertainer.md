@@ -1,0 +1,4 @@
+- **Role**: Musician and Storyteller
+- **Backstory**: Felix is known for his stories and songs about local lore, including tales of the haunted mansion. He enjoys stirring up the crowd.
+- **Connection**: Popular at the inn; attracts crowds with his performances.
+- **Potential Story Arc**: If turned, Felix could use his charisma to spread fear subtly, manipulating the townsfolk with chilling tales to keep them away from investigating Barstow.

@@ -1,0 +1,1 @@
+If you have Immunity to a [[damage types]] or a [[Condition]], it doesn't affect you in any way.

@@ -1,0 +1,5 @@
+- **Origin Stats:** Dexterity, Charisma
+
+- **Skills:** Performance, Acrobatics
+
+- **Description:** As one of _Mourn’s Folly_’s most captivating performers, they’ve charmed audiences with their talent and flair. Yet their allure isn’t entirely natural—one fateful night, they encountered a powerful being from the Lower Planes who promised them fame and influence in exchange for loyalty. Now, their performances carry an enigmatic edge, with an intensity that some find unsettling. Since Marlon Voss’s arrival and the mansion’s renovations, they feel a strange pull to the activity around town, as if their fiendish patron is nudging them toward the growing mysteries. Drawn by the promise of secrets (and possibly greater fame), they’re eager to see how they might use their charm and influence to get closer to Voss’s plans.

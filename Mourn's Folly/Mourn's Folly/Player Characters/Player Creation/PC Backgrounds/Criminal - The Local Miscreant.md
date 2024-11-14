@@ -1,0 +1,7 @@
+- **Origin Stats:** (Dex/Con/Int)
+    
+- **Skills:** Sleight of Hand, Stealth
+    
+- **Trope:** Known for petty mischief and small-time thievery, this character has long been _Mourn’s Folly_’s resident troublemaker. They’re a master of slipping through shadows and navigating every hidden path in town, often with someone else’s trinket or coin in hand. Their escapades have earned them a notorious reputation, and while their thefts are rarely serious, most townsfolk keep a close eye on their belongings whenever they’re around. The recent mansion renovations, however, have sparked a new obsession: whispers of hidden relics and treasures tucked away within the sprawling estate seem like an irresistible prize. For them, it’s a chance to prove they’re more than just a small-time thief, to discover something truly valuable and leave their mark on _Mourn’s Folly_. Watching the mansion day by day, they see each creaky floorboard and dim corridor as an invitation, waiting to reveal secrets untouched for decades. Though they claim it’s just for the thrill, deep down, they wonder if this could be the big score that finally elevates them beyond the town’s “bad apple” and into someone worth remembering.
+    
+- **Class Ideas:** Rogue

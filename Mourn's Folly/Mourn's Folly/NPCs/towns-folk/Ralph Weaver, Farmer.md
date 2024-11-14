@@ -1,0 +1,4 @@
+- **Role**: Rural Protector
+- **Backstory**: Ralph’s family has farmed the same land for generations. He’s practical and grounded, with a strong sense of community.
+- **Connection**: Close ties to other farmers and townsfolk who depend on his produce.
+- **Potential Story Arc**: If corrupted, he could influence other farmers to join Barstow’s forces by offering them “protection” or promising them a role in the new order.

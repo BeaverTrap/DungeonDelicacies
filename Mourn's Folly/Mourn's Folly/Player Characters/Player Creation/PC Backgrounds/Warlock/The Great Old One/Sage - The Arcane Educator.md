@@ -1,0 +1,5 @@
+- **Origin Stats:** Intelligence, Wisdom
+
+- **Skills:** Arcana, History
+
+- **Description:** As the local school teacher in _Mourn’s Folly_, they have dedicated their life to educating the town's children and instilling in them a love for learning. However, their passion for knowledge took a dark turn one evening when they discovered a strange artifact while sorting through old teaching materials in the school’s attic. Upon touching it, they inadvertently forged a bond with an unknowable entity, awakening latent powers and filling their mind with whispers of arcane secrets. Now, they navigate the delicate balance between their responsibilities as an educator and their growing obsession with the hidden knowledge their patron offers. With the recent arrival of Marlon Voss and the renovations of the old mansion, they feel that the mysteries of the past may hold the key to understanding their new abilities. As they teach the next generation, they also seek to unravel the secrets that intertwine with their own fate.

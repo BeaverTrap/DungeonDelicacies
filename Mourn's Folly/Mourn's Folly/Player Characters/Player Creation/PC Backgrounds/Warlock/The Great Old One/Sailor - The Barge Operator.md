@@ -1,0 +1,5 @@
+- **Origin Stats:** Wisdom, Strength
+
+- **Skills:** Perception, Athletics
+
+- **Description:** Once a sailor braving the unpredictable seas, they faced a life-altering storm during which they encountered a strange, incomprehensible presence. In exchange for their survival, this entity promised eternal curiosity and vigilance, binding them to the whispers of the Great Old One. Haunted by fragments of forbidden knowledge, they have since left the turbulent waters behind and settled along the **Kendausk River**. Now, they make regular deliveries to _Mourn’s Folly_, with increased frequency due to recent orders placed by Marlon Voss for supplies related to his and Barstow’s new ventures. Each trip allows them to engage with the townsfolk, share stories of their travels, and stay alert for any unusual happenings in the community.

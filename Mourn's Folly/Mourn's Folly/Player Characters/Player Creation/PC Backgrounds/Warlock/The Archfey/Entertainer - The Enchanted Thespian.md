@@ -1,0 +1,5 @@
+- **Origin Stats:** Dexterity, Charisma
+
+- **Skills:** Performance, Acrobatics
+
+- **Description:** In _Mourn’s Folly_, they’re known for their captivating performances that draw in even the most skeptical townsfolk. But few realize their charm isn’t entirely natural; a fateful encounter with an Archfey granted them an otherworldly allure and the ability to enchant audiences. This Fey patron pushes them toward grander theatrics and occasional mischief, nudging them toward the unexplained mysteries the town now harbors. With Marlon Voss’s arrival and his antique business stirring interest, they feel a spark of curiosity. The mansion’s restoration and Voss’s shop feel like perfect stages for adventure, and the Thespian can’t resist the allure of uncovering secrets that might even amuse their patron.

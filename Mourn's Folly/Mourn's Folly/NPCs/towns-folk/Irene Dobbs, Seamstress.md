@@ -1,0 +1,4 @@
+- **Role**: Maker of Clothing and Goods
+- **Backstory**: Irene is practical and detail-oriented, known for her high-quality work. She provides the town with clothing and repairs for the working-class folk.
+- **Connection**: Valued by townsfolk for her skill, which brings people into her shop regularly.
+- **Potential Story Arc**: Under Barstow’s control, she could sew small symbols or talismans into clothing, subtly spreading Barstow’s influence throughout the town.
