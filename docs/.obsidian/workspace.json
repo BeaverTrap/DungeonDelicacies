@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "index"
             }
           }
         ]
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Index"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Index"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -155,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Index"
+              "title": "Outline of index"
             }
           }
         ]
@@ -181,7 +181,7 @@
   "active": "9941022476fa8543",
   "lastOpenFiles": [
     "DungeonDelicacies/Mourn's Folly/Player Characters/Player Creation/Character Creation.md",
-    "Index.md",
+    "index.md",
     "DungeonDelicacies/Mourn's Folly/Player Characters/Player Creation",
     "DungeonDelicacies/Mourn's Folly/Player Characters",
     "DungeonDelicacies/Mourn's Folly",
